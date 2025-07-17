@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Dr. Alice",
+        "specialty": "Cardiology"
+    },
+    {
+        "name": "Dr. Bob",
+        "specialty": "Cardiology"
+    },
+    {
+        "name": "Dr. Clara",
+        "specialty": "Cardiology"
+    },
+    {
+        "name": "Dr. Daniel",
+        "specialty": "Cardiology"
+    },
+    {
+        "name": "Dr. Emily",
+        "specialty": "General Medicine"
+    },
+    {
+        "name": "Dr. Frank",
+        "specialty": "General Medicine"
+    },
+    {
+        "name": "Dr. Rose",
+        "specialty": "General Medicine"
+    },
+    {
+        "name": "Dr. Victor",
+        "specialty": "General Medicine"
+    },
+    {
+        "name": "Dr. Tina",
+        "specialty": "Pediatrics"
+    },
+    {
+        "name": "Dr. Frank",
+        "specialty": "Pediatrics"
+    },
+    {
+        "name": "Dr. John",
+        "specialty": "Pediatrics"
+    },
+    {
+        "name": "Dr. Samuel",
+        "specialty": "Pediatrics"
+    },
+    {
+        "name": "Dr. Grace",
+        "specialty": "ENT (Ear, Nose, Throat)"
+    },
+    {
+        "name": "Dr. Henry",
+        "specialty": "ENT (Ear, Nose, Throat)"
+    },
+    {
+        "name": "Dr. Olivia",
+        "specialty": "ENT (Ear, Nose, Throat)"
+    },
+    {
+        "name": "Dr. Samuel",
+        "specialty": "ENT (Ear, Nose, Throat)"
+    },
+    {
+        "name": "Dr. Liam",
+        "specialty": "Infectious Diseases"
+    },
+    {
+        "name": "Dr. Uma",
+        "specialty": "Infectious Diseases"
+    },
+    {
+        "name": "Dr. Paul",
+        "specialty": "Infectious Diseases"
+    },
+    {
+        "name": "Dr. Raj",
+        "specialty": "Infectious Diseases"
+    },
+    {
+        "name": "Dr. Jacob",
+        "specialty": "Endocrinology"
+    },
+    {
+        "name": "Dr. Kate",
+        "specialty": "Endocrinology"
+    },
+    {
+        "name": "Dr. Olivia",
+        "specialty": "Endocrinology"
+    },
+    {
+        "name": "Dr. Liam",
+        "specialty": "Endocrinology"
+    },
+    {
+        "name": "Dr. Noah",
+        "specialty": "Nephrology"
+    },
+    {
+        "name": "Dr. Mia",
+        "specialty": "Nephrology"
+    },
+    {
+        "name": "Dr. Mia",
+        "specialty": "Nephrology"
+    },
+    {
+        "name": "Dr. Clara",
+        "specialty": "Nephrology"
+    },
+    {
+        "name": "Dr. Alice",
+        "specialty": "Oncology"
+    },
+    {
+        "name": "Dr. Paul",
+        "specialty": "Oncology"
+    },
+    {
+        "name": "Dr. Grace",
+        "specialty": "Oncology"
+    },
+    {
+        "name": "Dr. Samuel",
+        "specialty": "Oncology"
+    }
+]

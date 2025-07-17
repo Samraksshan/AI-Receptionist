@@ -1,0 +1,50 @@
+[
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Bob",
+        "disease": "skin",
+        "time": "2024-11-30T11:15:58.850629"
+    },
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Emily",
+        "disease": "fever",
+        "time": "2024-11-30T11:50:36.220447"
+    },
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Emily",
+        "disease": "fever",
+        "time": "2024-11-30T11:58:14.893008"
+    },
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Frank",
+        "disease": "fever",
+        "time": "2024-11-30T12:06:01.178089"
+    },
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Emily",
+        "disease": "fever",
+        "time": "2024-11-30T12:34:46.953111"
+    },
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Frank",
+        "disease": "fever",
+        "time": "2024-11-30T12:39:06.538791"
+    },
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Victor",
+        "disease": "fever",
+        "time": "2024-11-30T13:01:08.827687"
+    },
+    {
+        "user": "raksshansam@gmail.com",
+        "doctor": "Dr. Rose",
+        "disease": "cold",
+        "time": "2024-11-30T13:21:08.043270"
+    }
+]
